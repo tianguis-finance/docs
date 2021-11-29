@@ -1,3 +1,0 @@
-# El Plan!
-
-El Plan!

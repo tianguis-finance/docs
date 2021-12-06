@@ -2,9 +2,17 @@
 
 ---
 
-- **Chanclas**: dev borracho
-- **Chacharas**: diseñador distroy
-- **El Vato**: administrador pinche ñero
-- **Ropitas de paca**; marketing y bien chismoso
-- **Gomi Chela**: - dev cholear es mi pasión
-- **Simon**: pinche perro!
+**Chacharas**: diseñador distroy   
+  
+![Vato](./images/vato.png)  
+**Vato**: administrador pinche ñero  
+  
+![Ropitas de Paca](./images/ropita-de-paca.png)  
+**Ropitas de Paca**; marketing y bien chismoso  
+  
+**Gomi Chelas**: dev cholear es mi pasión  
+  
+**Simon**: pinche perro!    
+  
+![Chanclas](./images/chanclas.png)  
+**Chanclas**: dev borracho

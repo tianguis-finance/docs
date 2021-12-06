@@ -4,4 +4,5 @@
 
 - [Introducción](intro.md "Tianguis Finance - DeFi pa' la banda!")
 - [Tokennomics](tokenomics.md "Tianguis Finance - Tokenomics")
-- [Equipo](equipo.md)
+- [Contratos](contratos.md "Tianguis Finance - Contratos inteligentes")
+- [Equipo](equipo.md "Tianguis Finance - Pura Banda!")

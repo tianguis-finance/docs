@@ -12,8 +12,8 @@ y continuando las platicas llegamos al punto de poder generar dinero para ayudar
 
 Características:
 
-- La Tanda: puedes stakear nuestro token $MORRALLA y ganar mas completamente gratis!
-- Los Puestos: aqui puedes stakear LP del Tianguis para ganar mas $MORALLA!
-- La Bodega: nuestro app de compuesto automatico! Aqui puedes stakear tus LPs y dejar los generar mas LP automaticamente.
+- **La Tanda**: puedes stakear nuestro token *$MORRALLA* y ganar mas completamente gratis!
+- **Los Puestos**: aqui puedes stakear LP del Tianguis para ganar mas *$MORALLA*!
+- **La Bodega**: nuestro app de compuesto automatico! Aqui puedes stakear tus LPs y dejar los generar mas LP automaticamente.
 
 ![image info](./images/miches.svg)

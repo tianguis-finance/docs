@@ -6,3 +6,4 @@
 - [Tokennomics](tokenomics.md "Tianguis Finance - Tokenomics")
 - [Contratos](contratos.md "Tianguis Finance - Contratos inteligentes")
 - [Equipo](equipo.md "Tianguis Finance - Pura Banda!")
+- [Otras cosas](otras.md "Todo lo demas")

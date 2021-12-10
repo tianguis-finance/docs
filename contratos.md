@@ -16,5 +16,8 @@
 **Morralla (token del tianguis)**  
 0xadcBAEbaac0f775923eBDFb6B904399DA8801275  
 
+*Timelock de Morralla*  
+0x105d54b266a1cc1C7524451577b4752198A70269
+
 **Tanda (token de la tanda)**  
 0x375821Aad508FF3Df097BA4EA4D467F95EFB55FE 

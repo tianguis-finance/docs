@@ -21,3 +21,12 @@
   
 **Tanda (token de la tanda)**  
 0x375821Aad508FF3Df097BA4EA4D467F95EFB55FE 
+  
+**Facbrica**   
+0x47Aff49b43427e1A4656ec799f98d07e9B075e77  
+*Init hash*  
+0xe617038d8914648fc0f3501aef559a3ed487de1a6b250ad671e00c07b2af72d2  
+  
+**Router**  
+0xB33fb982aEB6ddbC0A0DC2Cad171CA8D2Bd475d7  
+    
